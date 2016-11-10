@@ -7,6 +7,5 @@
 5. 黑白灰 加 对比色
 
 [video](https://www.youtube.com/watch?v=sByzHoiYFX0)
-
 [slides](https://github.com/quheng/eureka/blob/master/color.pdf)
 
