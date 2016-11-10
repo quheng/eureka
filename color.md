@@ -8,4 +8,5 @@
 
 https://www.youtube.com/watch?v=sByzHoiYFX0
 
+[slides](https://github.com/quheng/eureka/blob/master/color.pdf)
 
