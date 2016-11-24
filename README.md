@@ -1,4 +1,4 @@
 # Introduction
 
-eureka
+note about everything
 
