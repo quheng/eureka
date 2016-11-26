@@ -9,5 +9,4 @@ C,D,E,F,G,A,B,C
 4. 二弦三品是 C 调的 do.
 
 
-
 [slides](https://github.com/quheng/eureka/tree/master/guitar_slides)
