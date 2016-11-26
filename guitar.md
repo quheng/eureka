@@ -8,4 +8,6 @@ C,D,E,F,G,A,B,C
 3. 左手在品柱上移动一个品柱是一个半音
 4. 二弦三品是 C 调的 do.
 
+
+
 [slides](https://github.com/quheng/eureka/tree/master/guitar_slides)
