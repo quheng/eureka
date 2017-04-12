@@ -1,3 +1,4 @@
-阿隆佐·邱奇 Alonzo Church: lambda 验算
+ssserver -p 1897 -k shadowsocks -m aes-256-cfb --user quheng -d start
 
-haskell brooks curry: logic
+
+
